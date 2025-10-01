@@ -149,7 +149,7 @@ const Users = () => {
               padding: "4px 6px",
             }}
           >
-            <TiDelete size={22} color="pink" />
+            <TiDelete size={22} color="red" />
           </Button>
         </>
       ),

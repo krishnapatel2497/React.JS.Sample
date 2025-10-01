@@ -101,7 +101,7 @@ const Users = () => {
     {
       field: "gender",
       headerName: "Gender",
-      width: 150,
+      width: 140,
       align: "center",
       headerAlign: "center",
     },

@@ -138,7 +138,7 @@ const Users = () => {
               marginRight: "4px",
             }}
           >
-            <CiEdit size={20} color="black" />
+            <CiEdit size={20} color="blue" />
           </Button>
 
           <Button

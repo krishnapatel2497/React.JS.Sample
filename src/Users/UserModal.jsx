@@ -60,7 +60,7 @@ const UserModal = ({
 
   const style = {
     position: "absolute",
-    top: "45%",
+    top: "46%",
     left: "50%",
     transform: "translate(-45%, -45%)",
     width: 350,
